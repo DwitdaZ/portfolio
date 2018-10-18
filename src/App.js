@@ -21,9 +21,9 @@ class App extends Component {
                                     <em>Unleash the <span style={{color:"goldenrod", fontWeight:"bolder"}}>beast!!</span></em>
                                 </h1>
                             </div>
-                            {/* <div className="col-md-6 col-sm-12 text-center">
-                                <img src="./src/assests/carSpeed.jpg" className="hero-img mt-5 mt-md-0"></img>
-                            </div> */}
+                            <div className="col-md-6 col-sm-12 text-center">
+                                {/* <img src="./src/assests/carSpeed.jpg" className="hero-img mt-5 mt-md-0"></img> */}
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -32,28 +32,22 @@ class App extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col-sm-12 col-md-1 text-center mb-3 mb-md-0">
-                                <i class="fa fa-gamepad fa-2x" aria-hidden="true"></i>
+                                <i class="fa fa-map-marked-alt fa-2x" aria-hidden="true"></i>
                             </div>
                             <div className="col-sm-12 col-md-3 text-center text-uppercase text-md-left mb-3 mb-md-0">
-                                <p>
-                                    Play in an immersive enviornment with your friends
-                                </p>
+                                <p>some catchy phrase should go here, but I can't think of anything</p>
                             </div>
                             <div className="col-sm-12 col-md-1 text-center mb-3 mb-md-0">
-                                <i class="fa fa-sitemap fa-2x" aria-hidden="true"></i>
+                                <i class="fa fa-tachometer-alt fa-2x" aria-hidden="true"></i>
                             </div>
                             <div className="col-sm-12 col-md-3 text-center text-uppercase text-md-left mb-3 mb-md-0">
-                                <p>
-                                    Play offline or online with our state of the art net system
-                                </p>
+                                <p>some catchy phrase should go here, but I can't think of anything</p>
                             </div>
                             <div className="col-sm-12 col-md-1 text-center mb-3 mb-md-0">
-                                <i class="fa fa-line-chart fa-2x" aria-hidden="true"></i>
+                                <i class="fa fa-car-battery fa-2x" aria-hidden="true"></i>
                             </div>
                             <div className="col-sm-12 col-md-3 text-center text-uppercase text-md-left mb-3 mb-md-0">
-                                <p>
-                                    Web-based player tracking system for keeping tally of your stats
-                                </p>
+                                <p>some catchy phrase should go here, but I can't think of anything</p>
                             </div>
                         </div>
                     </div>
