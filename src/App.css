@@ -59,7 +59,7 @@ html, body {
 #join-container {
   background: url('../src/assests/carSpeed.jpg') no-repeat;
   background-size: cover;
-  background-position: 0 65%;
+  background-position: 0 60%;
 }
 
 #join-container h2 {
@@ -80,6 +80,6 @@ html, body {
   color:#000;
 }
 
-footer p {
+.footer p {
   color: goldenrod;
 }
