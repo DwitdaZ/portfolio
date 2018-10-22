@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 
 const Subscribe = () => {
+
     return (
         <Fragment>
             <div id="join-container" className="pt-lg-5 pb-lg-5 pt-5">
@@ -21,7 +22,7 @@ const Subscribe = () => {
                             <div className="col-sm-12 col-md-4">
                                 <button 
                                     type="button"
-                                    className="btn btn-warning btn-block text-uppercase"
+                                    className="btn btn-warning btn-block text-uppercase mb-4"
                                     style={{backgroundColor:"goldenrod"}}
                                 >Okay!</button>
                             </div>
@@ -32,5 +33,6 @@ const Subscribe = () => {
         </Fragment>
     );
 }
+
 
 export default Subscribe;

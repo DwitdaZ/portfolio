@@ -4,9 +4,9 @@ html, body {
 }
 
 #hero {
-  background: url('../src/assests/carWorld.jpg') no-repeat;
+  background: url('../src/assests/carWorld.jpg') no-repeat 55% 100% fixed;
   background-size: cover;
-  background-position: 0 60%;
+  height: 780px;
 }
 
 /* .hero-content {
@@ -20,7 +20,7 @@ html, body {
 
 @media(max-width:34em) {
   .navbar {
-    background: gray !important;
+    background: linear-gradient(rgba(0, 0, 0, 0.603), transparent) !important;
   }
 }
 
@@ -48,7 +48,6 @@ html, body {
 @media(max-width: 34em) {
   .nav-link {
     font-weight: normal;
-    color: #fff !important;
   }
 }
 
@@ -57,9 +56,8 @@ html, body {
 }
 
 #join-container {
-  background: url('../src/assests/carSpeed.jpg') no-repeat;
+  background: url('../src/assests/carSpeed.jpg') no-repeat 50% 60%;
   background-size: cover;
-  background-position: 0 60%;
 }
 
 #join-container h2 {
